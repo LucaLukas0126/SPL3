@@ -6,12 +6,12 @@ public class taschenrechner {
 		int zahl1 = Integer.parseInt(args[0]);
 		int zahl2 = Integer.parseInt(args[2]);
 		
-		if(args[2].equals("+")("*")("/")("-")) ) {
+//		if(args[2].equals("+")("*")("/")("-")) ) {
 			
-		}
-		else {
-			System.out.println("diese Zeichen ist falsche Zeichen");
-		}
+//		}
+//		else {
+//			System.out.println("diese Zeichen ist falsche Zeichen");
+//		}
 		
 		for (int i = 0; i < args.length; i++) {
 			System.out.println(args[i]);
